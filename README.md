@@ -22,7 +22,7 @@ Download and Install VirtualBox: <br/>
 <img src="https://i.imgur.com/SBPXYNb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download Windows ISOs:  <br/>
+Download Windows ISOs: <br/>
 <img src="https://i.imgur.com/cEGicx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/GP5aeep.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -44,24 +44,63 @@ Create Server 2019 Virtual Machine: <br/>
 <img src="https://i.imgur.com/6o1Iiai.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/WIywJxK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/3g5IAIJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TMmqrFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TMmqrFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TMmqrFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TMmqrFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/TMmqrFK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Log Analytics Workspace:  <br/>
-<img src="https://i.imgur.com/AkgYTWo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Server 2019 OS: <br/>
+<img src="https://i.imgur.com/WxDcALv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y0krTh4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z9gZsyb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JI0VDrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xzlM4zN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mOfvMYS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cqQ3IsC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Connect Log Analytics To VM:  <br/>
-<img src="https://i.imgur.com/lcxkVJz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/h7DNClJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/BvETOl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Server Network Adapters: <br/>
+<img src="https://i.imgur.com/lBYrFN0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JqTzulO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enable Gathering VM Logs In Microsoft Defender For Cloud:  <br/>
+Assign IP address to internal adapter: <br/>
+<img src="https://i.imgur.com/DUUiQum.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Rename Server to "DC": <br/>
+<img src="https://i.imgur.com/FXmqNYs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hN6YrUk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Install Active Directory Domain Services: <br/>
+<img src="https://i.imgur.com/y3gsJnF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1pVtAHQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fIMP2Bo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zSeb8y7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JplrHZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hHaxxwf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sEFNViM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Promote Domain Controller (MyDomain.com): <br/>
+<img src="https://i.imgur.com/aHt83Ho.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9IO75Lk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tExnBXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KDWmSmU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Cp4aC20.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oTjWYJj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v40RW5i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AL4dCrP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create Domain Admin Account: <br/>
+<img src="https://i.imgur.com/fU6o2pS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NwM7gvv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T20Sg1a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WE7x1Lm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ftkJk33.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5vUGzAe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Relogin with Domain Admin Account:  <br/>
 <img src="https://i.imgur.com/ehvpHbR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/rs0iReR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
