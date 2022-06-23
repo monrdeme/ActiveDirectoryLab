@@ -101,31 +101,52 @@ Create Domain Admin Account: <br/>
 <br />
 <br />
 Relogin with Domain Admin Account:  <br/>
-<img src="https://i.imgur.com/ehvpHbR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/rs0iReR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cjKvP99.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fUt7dKO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setup Azure Sentinel:  <br/>
-<img src="https://i.imgur.com/IffNUjG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install and Configure RAS/NAT:  <br/>
+<img src="https://i.imgur.com/O5yOpnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JSNZ4NI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o0Twoln.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iAV6vz0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M9XXaOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1bGscIT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J6yV4di.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QQ9w1Uq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RvfnFRg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DcGEpWM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vDhkilJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ruwPyTy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1jxr5aA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uAZtA4y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Log Into VM With Remote Desktop:  <br/>
-<img src="https://i.imgur.com/tAqRJaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/vcJ9Eal.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install and Configure DHCP:  <br/>
+<img src="https://i.imgur.com/JZV8Hz9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r4Ft7wp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MeqQAe8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gH4mX5P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vKWVclA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oomFm2Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NE3Ivtm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sKB8hoB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/otDhod5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aW4cjdm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe Event Viewer Logs In VM:  <br/>
-<img src="https://i.imgur.com/pVlHXZ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable Browsing on the DC:  <br/>
+<img src="https://i.imgur.com/6gwrhpi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Turn Off Windows Firewall On VM:  <br/>
+Download PowerShell Scripts from GitHub:  <br/>
 <img src="https://i.imgur.com/yzN2OdV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SifBFCV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SuJS0KA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/if5IBSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download PowerShell Script:  <br/>
+Download PowerShell Scripts from GitHub:  <br/>
 <img src="https://i.imgur.com/HlxTQfV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
