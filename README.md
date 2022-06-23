@@ -139,34 +139,46 @@ Enable Browsing on the DC:  <br/>
 <img src="https://i.imgur.com/6gwrhpi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download PowerShell Scripts from GitHub:  <br/>
-<img src="https://i.imgur.com/yzN2OdV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/SifBFCV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/SuJS0KA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/if5IBSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup PowerShell Scripts:  <br/>
+<img src="https://i.imgur.com/7ZyN1uQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7WAwvgk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ql59y80.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download PowerShell Scripts from GitHub:  <br/>
-<img src="https://i.imgur.com/HlxTQfV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change Directory to Script Directory:  <br/>
+<img src="https://i.imgur.com/71GfGTW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Get Geolocation.io API Key:  <br/>
-<img src="https://i.imgur.com/v5dlpNp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/XKzQFd6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run Script to Create Users:  <br/>
+<img src="https://i.imgur.com/JbItA8F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Run Script To Get Geo Data From Attackers:  <br/>
-<img src="https://i.imgur.com/JMctSIN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Windows 10 VM:  <br/>
+<img src="https://i.imgur.com/pKFwqcr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hXJ4MjM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fTJIpiJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9rZ7foN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FecNHLZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fkSPVJ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZYeVIrk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/E1MYiLB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O7xmdV9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bm43R9R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Custom Log In Log Analytics Workspace To Bring In The Custom Log:  <br/>
-<img src="https://i.imgur.com/CjYMwes.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/BxQNEMa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/bDu0Ib1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/a451vHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/1D8Xq0I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/eQkAy1n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/1Fo7lJK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Windows 10 OS:  <br/>
+<img src="https://i.imgur.com/jGBbxMD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZtAnycI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OrKatUp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0FMKmSc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eoooE7I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lmYizxf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/woLCMO1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pkRroWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HtBzI7X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vmOzFVv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8grSKjD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oboR626.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Custom Fields/Extract Fields From Raw Custom Log Data:  <br/>
