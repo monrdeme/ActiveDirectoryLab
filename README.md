@@ -8,7 +8,7 @@ Lab consisted of creating an Active Directory home lab environment using Oracle 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b> 
+- <b>Oracle VirtualBox</b> 
 
 <h2>Environments Used </h2>
 
